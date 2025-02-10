@@ -1,8 +1,8 @@
 %* ---------- ---------- ----------
 %* CALC_CONVERSION_CONSTANTS
-%* Description:    Calculates useful conversion factors w.r.t. units.
-%* Origin/License: Copyright (C) 2010 Quanser Consulting Inc.
-%* History:        02/10/2025 - upload to github
+%* Description: Calculates useful conversion factors w.r.t. units
+%* Copyright:   Copyright (C) 2010 Quanser Consulting Inc
+%* History:     02/10/2025 - upload to github
 %* ---------- ---------- ----------
 %%
 function [ K_R2D, K_D2R, K_IN2M, K_M2IN, K_RDPS2RPM, K_RPM2RDPS,...

@@ -1,9 +1,9 @@
 %* ---------- ---------- ----------
 %* CONFIG_SERVO
-%* Description:    Accepts the user-defined configuration of the Quanser SRV02 plant and 
-%*                 sets its model variables accordingly.
-%* Origin/License: Quanser
-%* History:        02/10/2025 - upload to github
+%* Description: Accepts the user-defined configuration of the Quanser SRV02 plant and 
+%*              sets its model variables accordingly.
+%* Copyright:   2010 Quanser Consulting Inc
+%* History:     02/10/2025 - upload to github
 %* ---------- ---------- ----------
 
 % ************************************************************************

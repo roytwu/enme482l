@@ -1,8 +1,8 @@
 %* ---------- ---------- ----------
 %* SETUP_SERVO_MODELING
-%* Description:    Sets the necessary parameters to run the Servo Modeling laboratory 
-%* Origin/License: Quanser
-%* History:        02/10/2025 - upload to github
+%* Description: Sets the necessary parameters to run the Servo Modeling laboratory 
+%* Copyright:   2010 Quanser Consulting Inc
+%* History:     02/10/2025 - upload to github
 %* ---------- ---------- ----------
 
 clear all;

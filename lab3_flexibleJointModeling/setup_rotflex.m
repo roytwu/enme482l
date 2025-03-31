@@ -32,8 +32,11 @@ AMP_TYPE = 'VoltPaq';
 ARM_LOAD = 1;
 
 %% Control specifications
+
 %* Natural frequency (rad/s)
-wn = 20; 
+%* This is the default value when the two springs are nice and strong.  
+%* Speak to the TA to see if you need to re-measure the natural frequency 
+wn = 20;
 
 %* Damping ratio
 zeta = 0.6;
